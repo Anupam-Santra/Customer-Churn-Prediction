@@ -306,8 +306,8 @@ git push -u origin main
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn]
+- GitHub: [@Anupam-Santra](https://github.com/Anupam-Santra)
+- LinkedIn: [@Anupam Santra](https://www.linkedin.com/in/anupam-santra/)
 
 ---
 
